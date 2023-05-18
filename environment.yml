@@ -1,0 +1,17 @@
+name: pyt
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - jupyter
+  - pytorch-cuda
+  - torchaudio
+  - torchvision
+  - pytorch
+  - tornado=6.1
+  - autopep8
+prefix: /home/mikko/miniconda3/envs/pyt
